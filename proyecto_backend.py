@@ -1,7 +1,7 @@
 import datetime
 from datetime import datetime
 #import PyQt6 | Para la interfaz
-# import sqlite3 | Para la base de datos
+#pimport sqlite3 | Para la base de datos
 
 # Fecha de pruebas, tareas, fecha de hoy. 
 
